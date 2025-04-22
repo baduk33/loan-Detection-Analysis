@@ -1,5 +1,13 @@
+
+
 # 📊 Visualizations
 
-This folder contains all the key data visualizations from the loan approval analysis project. These plots were generated using Matplotlib and Seaborn to identify patterns in loan approvals.
+This folder contains all the key data visualizations from the loan approval project.
 
-You’ll find visual comparisons by gender, credit score, loan amount, and other features.
+The plots were created using **Matplotlib** and **Seaborn**, showing:
+- Gender vs. Approval Rate
+- Credit Score distribution
+- Loan Amount patterns
+- Correlations between features
+
+These visuals help in understanding feature importance and trends.
