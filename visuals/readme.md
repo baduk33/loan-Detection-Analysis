@@ -16,6 +16,8 @@ The plots were created using **Matplotlib** and **Seaborn**, showing:
 
 -  Income Distribution by Education
 ![Loan_Detection - violin](https://github.com/user-attachments/assets/ebc8e1fc-0fd8-4d0e-9c62-0a9fbf33ada9)
+ - Annual Inocme by Gender
+![Loan_Detection -Kde](https://github.com/user-attachments/assets/f00bedf3-8170-4a37-aa8f-a2aa9b953504)
 
 -  Loan Approval Based on Gender, Marital Status, and Property Area
 ![Loan_Detection - Catplot](https://github.com/user-attachments/assets/b5045d6b-c1bf-45e9-a56a-817945101c84)
